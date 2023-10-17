@@ -1,7 +1,7 @@
 package org.example;
 
 // CLASSE - toda classe precisa existir dentro diretorio src
-public class MinhaClasse {
+public class AnatomiaDasClassesUm {
 
     // METODO
     public static void main(String[] args) {
