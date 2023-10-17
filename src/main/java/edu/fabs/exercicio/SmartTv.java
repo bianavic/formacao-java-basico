@@ -2,6 +2,7 @@ package edu.fabs.exercicio;
 
 public class SmartTv {
 
+    // atributos a nivel de classe
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
@@ -29,6 +30,7 @@ public class SmartTv {
 
     // pedindo q Usuario informe o numero do canal
     public void mudarDeCanal(int novoCanal) {
+        // atributo a nivel de metodo
         canal = novoCanal;
     }
 
