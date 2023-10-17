@@ -1,0 +1,24 @@
+package edu.fabs.terminaleargumentos;
+
+
+// na pasta .bin
+// adicione os parametros para o programa exibir os dados
+//comando> java AboutMe NERO MARIA 10 0.30
+public class AboutMe {
+
+    // todas as infos estao vindo nos argumentos da execucao da minha app
+    public static void main(String[] args) {
+
+        // os argumentos comecam com o indice 0
+        String nome = args[0];
+        String sobrenome = args[1];
+        int idade = Integer.valueOf(args[2]);
+        double altura = Double.valueOf(args[3]);
+
+        System.out.println("Ola, me chamo " + nome + " " + sobrenome);
+        System.out.println("Tenho " + idade + " anos");
+        System.out.println("Minha altura é " + altura + "cm");
+
+    }
+
+}
