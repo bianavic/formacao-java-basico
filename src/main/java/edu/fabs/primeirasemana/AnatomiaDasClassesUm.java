@@ -1,4 +1,4 @@
-package org.example;
+package edu.fabs.primeirasemana;
 
 // CLASSE - toda classe precisa existir dentro diretorio src
 public class AnatomiaDasClassesUm {

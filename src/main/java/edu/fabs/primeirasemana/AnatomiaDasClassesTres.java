@@ -1,4 +1,4 @@
-package org.example;
+package edu.fabs.primeirasemana;
 
 public class AnatomiaDasClassesTres {
 
