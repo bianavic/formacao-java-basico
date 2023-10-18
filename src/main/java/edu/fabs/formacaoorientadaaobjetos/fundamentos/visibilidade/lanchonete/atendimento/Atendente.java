@@ -1,4 +1,4 @@
-package edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete.atendimento;
+package edu.fabs.formacaoorientadaaobjetos.fundamentos.visibilidade.lanchonete.atendimento;
 
 public class Atendente {
 

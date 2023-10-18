@@ -1,8 +1,8 @@
-package edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete;
+package edu.fabs.formacaoorientadaaobjetos.fundamentos.visibilidade.lanchonete;
 
-import edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete.area.cliente.Cliente;
-import edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete.atendimento.Atendente;
-import edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete.atendimento.cozinha.Cozinheiro;
+import edu.fabs.formacaoorientadaaobjetos.fundamentos.visibilidade.lanchonete.area.cliente.Cliente;
+import edu.fabs.formacaoorientadaaobjetos.fundamentos.visibilidade.lanchonete.atendimento.Atendente;
+import edu.fabs.formacaoorientadaaobjetos.fundamentos.visibilidade.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
 
