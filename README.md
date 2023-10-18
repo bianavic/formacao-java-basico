@@ -13,7 +13,7 @@ Criar um exemplo de uma classe para representar uma SmartTV onde:
 
 ```
 
-### [Sintaxe] Desafio
+### [SINTAXE] Desafio
 
 
 Exercitar o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
@@ -38,6 +38,8 @@ Exercitar o conteúdo apresentado no módulo de Sintaxe codificando o seguinte c
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
+---------
+
 ### [estruturas condicionais] Exercicio
 
 ```
@@ -59,3 +61,5 @@ Case 4: O RH deverá realizar uma ligação, com no máximo 03 tentativas para c
 - Do contrário imprima: "NÃO CONSEGUIMOS CONTATO COM O _[CANDIDATO]_".
 
 ```
+
+### [CONTROLE DE FLUXO] Desafio
