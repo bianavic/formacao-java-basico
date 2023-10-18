@@ -1,4 +1,4 @@
-package edu.fabs.formacaoorientadaaobjetos.classes.visibilidade.lanchonete.atendimento.cozinha;
+package edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
 

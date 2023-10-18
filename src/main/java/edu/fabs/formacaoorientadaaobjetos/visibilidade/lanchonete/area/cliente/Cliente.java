@@ -1,4 +1,4 @@
-package edu.fabs.formacaoorientadaaobjetos.classes.visibilidade.lanchonete.area.cliente;
+package edu.fabs.formacaoorientadaaobjetos.visibilidade.lanchonete.area.cliente;
 
 public class Cliente {
 
