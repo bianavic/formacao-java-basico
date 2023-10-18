@@ -1,10 +1,8 @@
 package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.excepcionais;
 
-import edu.fabs.Main;
-
 import java.util.Scanner;
 
-public class Ecercicio {
+public class Exercicio {
 
 //    public static void main(String[] args) {
 //

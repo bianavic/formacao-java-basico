@@ -1,4 +1,4 @@
-package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.repeticao;
+package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.exercicio;
 
 public class Exercicio {
 
