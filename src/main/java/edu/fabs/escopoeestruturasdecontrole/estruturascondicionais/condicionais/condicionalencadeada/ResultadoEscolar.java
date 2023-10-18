@@ -1,4 +1,4 @@
-package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionalencadeada;
+package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionais.condicionalencadeada;
 
 public class ResultadoEscolar {
 

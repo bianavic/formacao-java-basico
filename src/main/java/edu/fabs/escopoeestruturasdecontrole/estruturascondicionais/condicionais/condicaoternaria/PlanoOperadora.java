@@ -1,4 +1,4 @@
-package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicaoternaria;
+package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionais.condicaoternaria;
 
 public class PlanoOperadora {
 

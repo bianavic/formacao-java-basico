@@ -1,4 +1,4 @@
-package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionalsimples;
+package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionais.condicionalsimples;
 
 // escopo de metodo
 // 2 variaveis locais

@@ -1,4 +1,4 @@
-package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionalcomposta;
+package edu.fabs.escopoeestruturasdecontrole.estruturascondicionais.condicionais.condicionalcomposta;
 
 // uma variavel
 public class ResultadoEscolar {
