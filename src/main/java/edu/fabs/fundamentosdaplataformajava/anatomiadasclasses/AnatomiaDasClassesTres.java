@@ -1,4 +1,4 @@
-package edu.fabs.anatomiadasclasses;
+package edu.fabs.fundamentosdaplataformajava.anatomiadasclasses;
 
 public class AnatomiaDasClassesTres {
 

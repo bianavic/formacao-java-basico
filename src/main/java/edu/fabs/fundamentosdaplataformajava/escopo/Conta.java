@@ -1,4 +1,4 @@
-package edu.fabs.escopo;
+package edu.fabs.fundamentosdaplataformajava.escopo;
 
 public class Conta {
 

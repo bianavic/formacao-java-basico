@@ -1,4 +1,4 @@
-//package edu.fabs.metodos;
+//package edu.fabs.fundamentosdaplataformajava.metodos;
 //
 //public class MyClass {
 //

@@ -1,4 +1,4 @@
-package edu.fabs.operadores;
+package edu.fabs.fundamentosdaplataformajava.operadores;
 
 public class OperadoresLogicos {
 

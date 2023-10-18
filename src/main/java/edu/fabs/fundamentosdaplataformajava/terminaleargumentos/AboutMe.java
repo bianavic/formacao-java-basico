@@ -1,4 +1,4 @@
-package edu.fabs.terminaleargumentos;
+package edu.fabs.fundamentosdaplataformajava.terminaleargumentos;
 
 
 // na pasta .bin

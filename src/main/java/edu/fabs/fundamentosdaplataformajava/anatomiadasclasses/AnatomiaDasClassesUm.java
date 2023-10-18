@@ -1,4 +1,4 @@
-package edu.fabs.anatomiadasclasses;
+package edu.fabs.fundamentosdaplataformajava.anatomiadasclasses;
 
 // CLASSE - toda classe precisa existir dentro diretorio src
 public class AnatomiaDasClassesUm {

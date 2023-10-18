@@ -1,4 +1,4 @@
-package edu.fabs.documentacao;
+package edu.fabs.fundamentosdaplataformajava.documentacao;
 
 public class Comentarios {
 

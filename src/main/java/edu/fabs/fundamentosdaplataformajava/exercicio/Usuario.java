@@ -1,4 +1,4 @@
-package edu.fabs.exercicio;
+package edu.fabs.fundamentosdaplataformajava.exercicio;
 
 public class Usuario {
 

@@ -1,4 +1,4 @@
-package edu.fabs.documentacao;
+package edu.fabs.fundamentosdaplataformajava.documentacao;
 
 /**
  * <h1>Calculadora</h1>

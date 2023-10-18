@@ -1,4 +1,4 @@
-package edu.fabs.terminaleargumentos;
+package edu.fabs.fundamentosdaplataformajava.terminaleargumentos;
 
 import java.util.Locale;
 import java.util.Scanner;
