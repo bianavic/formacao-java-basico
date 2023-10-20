@@ -12,6 +12,7 @@ build/
 .idea/misc.xml
 .idea/.name
 .idea/uiDesigner.xml
+.idea
 *.iws
 *.iml
 *.ipr
