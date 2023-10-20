@@ -1,4 +1,4 @@
-package edu.fabs.formacaoorientadaaobjetos.desafio.mp3;
+package edu.fabs.formacaoorientadaaobjetos.desafio.iphone.mp3;
 
 public class IPod implements ReprodutorMusical{
 

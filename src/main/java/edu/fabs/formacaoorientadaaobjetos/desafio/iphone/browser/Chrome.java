@@ -1,4 +1,4 @@
-package edu.fabs.formacaoorientadaaobjetos.desafio.browser;
+package edu.fabs.formacaoorientadaaobjetos.desafio.iphone.browser;
 
 public class Chrome implements NavegadorInternet {
 

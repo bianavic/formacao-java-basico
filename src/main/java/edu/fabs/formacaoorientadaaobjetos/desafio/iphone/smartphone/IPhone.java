@@ -1,8 +1,8 @@
-package edu.fabs.formacaoorientadaaobjetos.desafio.smartphone;
+package edu.fabs.formacaoorientadaaobjetos.desafio.iphone.smartphone;
 
-import edu.fabs.formacaoorientadaaobjetos.desafio.browser.NavegadorInternet;
-import edu.fabs.formacaoorientadaaobjetos.desafio.celular.AparelhoTelefonico;
-import edu.fabs.formacaoorientadaaobjetos.desafio.mp3.ReprodutorMusical;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.browser.NavegadorInternet;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.celular.AparelhoTelefonico;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.mp3.ReprodutorMusical;
 
 public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 

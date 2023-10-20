@@ -1,4 +1,4 @@
-package edu.fabs.formacaoorientadaaobjetos.desafio.celular;
+package edu.fabs.formacaoorientadaaobjetos.desafio.iphone.celular;
 
 public class CelularBasico implements AparelhoTelefonico {
 

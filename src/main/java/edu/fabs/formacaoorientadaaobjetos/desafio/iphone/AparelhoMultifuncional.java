@@ -1,12 +1,12 @@
-package edu.fabs.formacaoorientadaaobjetos.desafio;
+package edu.fabs.formacaoorientadaaobjetos.desafio.iphone;
 
-import edu.fabs.formacaoorientadaaobjetos.desafio.browser.NavegadorInternet;
-import edu.fabs.formacaoorientadaaobjetos.desafio.browser.Chrome;
-import edu.fabs.formacaoorientadaaobjetos.desafio.celular.AparelhoTelefonico;
-import edu.fabs.formacaoorientadaaobjetos.desafio.celular.CelularBasico;
-import edu.fabs.formacaoorientadaaobjetos.desafio.mp3.IPod;
-import edu.fabs.formacaoorientadaaobjetos.desafio.mp3.ReprodutorMusical;
-import edu.fabs.formacaoorientadaaobjetos.desafio.smartphone.IPhone;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.browser.NavegadorInternet;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.browser.Chrome;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.celular.AparelhoTelefonico;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.celular.CelularBasico;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.mp3.IPod;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.mp3.ReprodutorMusical;
+import edu.fabs.formacaoorientadaaobjetos.desafio.iphone.smartphone.IPhone;
 
 public class AparelhoMultifuncional {
 
