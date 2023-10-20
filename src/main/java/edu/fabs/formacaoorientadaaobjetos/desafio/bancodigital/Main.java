@@ -1,5 +1,7 @@
 package edu.fabs.formacaoorientadaaobjetos.desafio.bancodigital;
 
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -33,6 +35,26 @@ public class Main {
 
         // extrato Lugano apos transferencia
         correnteLugano.imprimirInfosComuns();
+
+        String clienteNero = "Nero";
+        Banco banco = new Banco(clienteNero);
+
+        banco.adicionarConta(correnteNero);
+        banco.adicionarConta(poupancaNero);
+        banco.adicionarConta(correnteLugano);
+        banco.adicionarConta(poupancaGonzales);
+
+        List<Conta> contasEncontradas = banco.buscarContasPorNomeCliente(clienteNero);
+        if (contasEncontradas.isEmpty()) {
+            System.out.println("Nenhuma conta encontrada para o cliente: " + clienteNero);
+        } else {
+            System.out.println("Contas encontradas para o cliente " + clienteNero + ":");
+            for (Conta conta : contasEncontradas) {
+                System.out.println("Agência: " + conta.getAgencia());
+                System.out.println("Número: " + conta.getNumero());
+                System.out.println("Saldo: " + conta.getSaldo());
+            }
+        }
     }
 
 }

@@ -31,6 +31,10 @@ public abstract class Conta implements Transacao {
         return saldo;
     }
 
+    public Cliente getCliente() {
+        return cliente;
+    }
+
 
     @Override
     public void sacar(double valor) {
